@@ -1,4 +1,4 @@
-# MDSS-WCE
+# MDSN-WCE
 
 The PyTorch code for the submitted paper entitled "Medical Decision Support Network for Wireless Capsule Endoscopy Diagnosis". 
 
