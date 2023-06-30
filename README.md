@@ -13,5 +13,5 @@ The specific code details will be uploaded here shortly after undergoing manuscr
 5. The log files of the learning process are output to the terminal and to the log folder of the capsule_model directory, and the trained models are saved to the model folder of the capsule_model directory.
 6. You can load the trained model using plot_cm, plot_heatmap, plot_tSNE_{dataset_name} to plot to confusion matrix, heatmap, tSNE representation visualization.
 
-## If you use the code, please kindly cite our paper as follows BibTeX:
+## If you use the code for your research, please kindly cite our paper as follows BibTeX:
 >Not available now.
