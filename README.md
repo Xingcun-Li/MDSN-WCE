@@ -1,10 +1,10 @@
 # MDSN-WCE
 
-The PyTorch code for the submitted paper entitled "Medical Decision Support Network for Wireless Capsule Endoscopy Diagnosis". 
+## The PyTorch code for the submitted paper entitled "Medical Decision Support Network for Wireless Capsule Endoscopy Diagnosis". 
 
 The specific code details will be uploaded here shortly after undergoing manuscript review and our code review.
 
-Follow these steps to run the code:
+## Follow these steps to run the code:
 
 1. Upload zip-compressed datasets to the data directory and unzip them.
 2. Use data_split.ipynb in the data directory to automatically divide into the training-validation-test.
@@ -13,5 +13,5 @@ Follow these steps to run the code:
 5. The log files of the learning process are output to the terminal and to the log folder of the capsule_model directory, and the trained models are saved to the model folder of the capsule_model directory.
 6. You can load the trained model using plot_cm, plot_heatmap, plot_tSNE_{dataset_name} to plot to confusion matrix, heatmap, tSNE representation visualization.
 
-If you use the code, please kindly cite our paper as follows BibTeX:
-Not available now.
+## If you use the code, please kindly cite our paper as follows BibTeX:
+>Not available now.
