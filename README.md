@@ -15,7 +15,7 @@ The specific code details will be uploaded here shortly after undergoing manuscr
 
 ## Public WCE Datasets:
 Kvasir-Capsule: https://datasets.simula.no/kvasir-capsule/  
-CAD-CAP: Please contact the authors of the following papers: CAD-CAP: a 25,000-image database serving the development of artificial intelligence for capsule endoscopy.  
+CAD-CAP: Please contact the authors of the paper
 KID: https://mdss.uth.gr/datasets/endoscopy/kid/  
 
 Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
