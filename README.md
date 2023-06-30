@@ -4,7 +4,7 @@ The PyTorch code for the submitted paper entitled "Medical Decision Support Netw
 
 The specific code details will be uploaded here shortly after undergoing manuscript review and our code review.
 
-Follow these steps
+Follow these steps to run the code:
 
 1. Upload zip-compressed datasets to the data directory and unzip them.
 2. Use data_split.ipynb in the data directory to automatically divide into the training-validation-test.
