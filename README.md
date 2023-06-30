@@ -13,5 +13,11 @@ The specific code details will be uploaded here shortly after undergoing manuscr
 5. The log files of the learning process are output to the terminal and to the log folder, and the trained models are saved to the model folder, both under the capsule_model directory.
 6. You can load the trained model using plot_cm, plot_heatmap, plot_tSNE_{dataset_name} to plot confusion matrix, heatmap, tSNE representation visualization, respectively.
 
+## Public WCE Datasets:
+Kvasir-Capsule: https://datasets.simula.no/kvasir-capsule/
+CAD-CAP: Please contact the authors of the following papers, CAD-CAP: a 25,000-image database serving the development of artificial intelligence for capsule endoscopy.
+KID: https://mdss.uth.gr/datasets/endoscopy/kid/
+Kvasir-Capsule can be downloaded directly at the link. 
+For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
 ## If you use the code for your research, please kindly cite our paper as follows BibTeX:
 >Not available now.
