@@ -1,6 +1,6 @@
 # MDSN-WCE
 
-## The PyTorch code for the submitted paper entitled "Prototype attention enhancement and dynamic curriculum learning guided network for wireless capsule endoscopy diagnosis". 
+## The PyTorch code for the submitted paper entitled "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning". 
 
 The specific code details will be uploaded here shortly after undergoing manuscript review and our code review.
 
