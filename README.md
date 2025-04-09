@@ -1,4 +1,4 @@
-# MDSN-WCE
+# MDSN-WCEhttps://github.com/Xingcun-Li/MDSN-WCE/blob/main/README.md
 
 ## The PyTorch code for the submitted paper entitled "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning". 
 
@@ -21,7 +21,7 @@ KID: https://mdss.uth.gr/datasets/endoscopy/kid/
 Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
 ## If you use the code for your research, please kindly cite our paper as follows in BibTeX:
 <pre>
-@ARTICLE{10955431,
+@ARTICLE{li2025wireless,
   author={Li, Xingcun and Wu, Qinghua and Chen, Yuning and Wu, Kun and Meng, Lin},
   journal={IEEE Transactions on Automation Science and Engineering}, 
   title={Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning}, 
