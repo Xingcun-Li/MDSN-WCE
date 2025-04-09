@@ -1,6 +1,6 @@
 # MDSN-WCE
 
-## The PyTorch code for the submitted paper entitled "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning". 
+## The PyTorch code for our paper "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning," IEEE TASE 2025.
 
 With the manuscript and code reviews successfully completed, the full code is now available in this repository.
 
