@@ -62,7 +62,7 @@ def get_args():
     parser.add_argument("--epochs",
                         type=int,
                         default=40,
-                        help="Max training epochs, default=70")
+                        help="Max training epochs, default=40")
     parser.add_argument("--optimizer",
                         type=str,
                         default="SGD",
@@ -222,7 +222,7 @@ def main():
     global train_data_size, valid_data_size, test_data_size
     train_loader, valid_loader, test_loader, train_data_size, valid_data_size, test_data_size = load_data(args)
     #-------Create model-------#
-    model_file="./model/BEST_datasetKvaCap10classes811_testacc0.9952_f1score0.9664_mpaTriplet_modelResNext50_32x4d_bs128_seed42_epochs40_optimSGD_lr0.01_wd0.0.pt"
+    model_file="./model/saved_Kvasir_model.pt"
     global model
     model = torch.load(model_file)
     
