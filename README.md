@@ -15,7 +15,7 @@ With the manuscript and code reviews successfully completed, the full code is no
 
 ## Public WCE Datasets:
 Kvasir-Capsule: https://datasets.simula.no/kvasir-capsule/  
-CAD-CAP: Please contact the authors of the paper  
+CAD-CAP: Please contact the authors of the CAD-CAP paper for access
 KID: https://mdss.uth.gr/datasets/endoscopy/kid/  
 
 Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
