@@ -61,8 +61,8 @@ def get_args():
                         help="Random seed, default=42")
     parser.add_argument("--epochs",
                         type=int,
-                        default=100,
-                        help="Max training epochs, default=50")
+                        default=40,
+                        help="Max training epochs, default=40")
     parser.add_argument("--optimizer",
                         type=str,
                         default="SGD",
@@ -213,7 +213,7 @@ def main():
     global train_data_size, valid_data_size, test_data_size
     train_loader, valid_loader, test_loader, train_data_size, valid_data_size, test_data_size = load_data(args)
     #-------Create model-------#
-    model_file="./model/datasetmixedKID3classesD82_testacc0.9379_f1score0.9356_mpaTriplet_modelResNext50_32x4d_bs64_seed44_epochs100_optimSGD_lr0.01_wd0.0.pt"
+    model_file="./model/saved_mixedKID_model.pt"
     global model
     model = torch.load(model_file)
     
