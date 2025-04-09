@@ -20,4 +20,14 @@ KID: https://mdss.uth.gr/datasets/endoscopy/kid/
 
 Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
 ## If you use the code for your research, please kindly cite our paper as follows in BibTeX:
->Not available now.
+>Not available now.>
+@ARTICLE{10955431,
+  author={Li, Xingcun and Wu, Qinghua and Chen, Yuning and Wu, Kun and Meng, Lin},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TASE.2025.3558934}
+}
