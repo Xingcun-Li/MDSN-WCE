@@ -20,7 +20,7 @@ KID: https://mdss.uth.gr/datasets/endoscopy/kid/
 
 Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datasets, please contact the authors or administrators to obtain access to these datasets.
 ## If you use the code for your research, please kindly cite our paper as follows in BibTeX:
->Not available now.>
+<pre>
 @ARTICLE{10955431,
   author={Li, Xingcun and Wu, Qinghua and Chen, Yuning and Wu, Kun and Meng, Lin},
   journal={IEEE Transactions on Automation Science and Engineering}, 
@@ -31,3 +31,4 @@ Kvasir-Capsule can be downloaded directly at the link. For CAD-CAP and KID datas
   pages={1-1},
   doi={10.1109/TASE.2025.3558934}
 }
+</pre>
