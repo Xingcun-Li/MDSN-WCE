@@ -163,7 +163,7 @@ def main():
     global train_data_size, valid_data_size, test_data_size
     train_loader, valid_loader, test_loader, train_data_size, valid_data_size, test_data_size = load_data(args)
     #-------Create model-------#
-    model_file="./model/saved_model.pt"
+    model_file="./model/saved_CADCAP_model.pt"
     global model
     model = torch.load(model_file)
     
