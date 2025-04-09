@@ -151,7 +151,7 @@ class GradCAM(BaseCAM):
 
         
 # 1. load model
-model = torch.load("./model/saved_model.pt")
+model = torch.load("./model/saved_CADCAP_model.pt")
 model.eval()
 # print(model)
 
