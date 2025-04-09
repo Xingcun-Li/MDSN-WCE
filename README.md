@@ -19,6 +19,7 @@ CAD-CAP: Please contact the authors of the CAD-CAP paper for access
 KID: https://mdss.uth.gr/datasets/endoscopy/kid/  
 
 Kvasir-Capsule can be downloaded directly via the provided link. For access to the CAD-CAP and KID datasets, please contact their respective authors or administrators.  
+
 ​Note: The mixed KID dataset is created by combining the CAD-CAP and KID datasets.
 ## If you use the code for your research, please kindly cite our paper as follows in BibTeX:
 <pre>
