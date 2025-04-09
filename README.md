@@ -1,4 +1,4 @@
-# MDSN-WCEhttps://github.com/Xingcun-Li/MDSN-WCE/blob/main/README.md
+# MDSN-WCE
 
 ## The PyTorch code for the submitted paper entitled "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning". 
 
