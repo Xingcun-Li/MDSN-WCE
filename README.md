@@ -2,7 +2,7 @@
 
 ## The PyTorch code for the submitted paper entitled "Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning". 
 
-With the manuscript review process completed and our code review successfully conducted, the complete code is now fully available in this repository.
+With the manuscript and code reviews successfully completed, the full code is now available in this repository.
 
 ## Follow these steps to run the code:
 
