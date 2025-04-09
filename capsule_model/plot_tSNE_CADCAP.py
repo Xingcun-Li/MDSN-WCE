@@ -163,7 +163,7 @@ def main():
     global train_data_size, valid_data_size, test_data_size
     train_loader, valid_loader, test_loader, train_data_size, valid_data_size, test_data_size = load_data(args)
     #-------Create model-------#
-    model_file="./model/BEST_datasetCADCAP3classes811_testacc0.9891_f1score0.9891_Triplet_modelResNext50_32x4d_bs64_seed42_epochs70_optimSGD_lr0.01_wd0.0.pt"
+    model_file="./model/saved_model.pt"
     global model
     model = torch.load(model_file)
     
