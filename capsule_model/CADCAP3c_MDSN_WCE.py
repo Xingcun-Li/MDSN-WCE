@@ -53,8 +53,8 @@ def get_args():
                         help="Random seed, default=42")
     parser.add_argument("--epochs",
                         type=int,
-                        default=70,
-                        help="Max training epochs, default=50")
+                        default=40,
+                        help="Max training epochs, default=40")
     parser.add_argument("--optimizer",
                         type=str,
                         default="SGD",
