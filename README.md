@@ -28,9 +28,9 @@ Kvasir-Capsule can be downloaded directly via the provided link. For access to t
   journal={IEEE Transactions on Automation Science and Engineering}, 
   title={Wireless Capsule Endoscopy Diagnosis Using Prototype Self-Attention and Dynamic Curriculum Learning}, 
   year={2025},
-  volume={},
+  volume={22},
   number={},
-  pages={1-1},
+  pages={14260--14271},
   doi={10.1109/TASE.2025.3558934}
 }
 </pre>
