@@ -30,7 +30,7 @@ Kvasir-Capsule can be downloaded directly via the provided link. For access to t
   year={2025},
   volume={22},
   number={},
-  pages={14260--14271},
+  pages={14260-14271},
   doi={10.1109/TASE.2025.3558934}
 }
 </pre>
